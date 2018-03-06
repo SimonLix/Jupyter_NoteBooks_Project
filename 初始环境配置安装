@@ -1,0 +1,5 @@
+环境安装及配置：
+Python 3.6
+2种安装模式：
+1. python -m pip install jupyter (环境准备：python 3.6)
+2. 安装Anaconda
