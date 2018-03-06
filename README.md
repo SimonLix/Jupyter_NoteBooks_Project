@@ -8,5 +8,8 @@
       
 ##  2. 启动Jupyter 环境
 在cmd或powershell里输入命令：jupyter notebook 
+完成后，jupyter 会自动打开系统默认浏览器进入主页
 
-注意文件夹目录
+注意当前文件夹目录：
+![GitHub](https://github.com/SimonLix/Jupyter_NoteBooks_Project/blob/master/Capture.PNG "GitHub,Social Coding")
+
