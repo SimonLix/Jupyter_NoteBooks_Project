@@ -17,3 +17,6 @@
 ![GitHub](https://github.com/SimonLix/Jupyter_NoteBooks_Project/blob/master/pic_jupyter_portal.PNG "GitHub, Simon")
 
 我们可以点击右侧 “New” 按钮新建一个Python文件 ： 
+![GitHub](https://github.com/SimonLix/Jupyter_NoteBooks_Project/blob/master/pic_jupyter_test.PNG "GitHub, Simon")
+
+### 做一个简单的运算，安装配置成功！
