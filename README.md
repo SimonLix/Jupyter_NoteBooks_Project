@@ -25,8 +25,14 @@
 ## 2. 数据分析
 
 ### 获取数据
+
 ### 数据存储与读取
+
+数据的IO,EXCEL,CSV,JSON,SQL数据库 HDF5等
+
 ### 分析
+
+掌握Python 基础 比如list,tuple,dic,set
 
 Numpy数组
 
