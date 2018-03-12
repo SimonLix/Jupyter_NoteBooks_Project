@@ -20,3 +20,27 @@
 ![GitHub](https://github.com/SimonLix/Jupyter_NoteBooks_Project/blob/master/pic_jupyter_test.PNG "GitHub, Simon")
 
 ### 做一个简单的运算，安装配置成功！
+
+
+## 2. 数据分析
+
+### 获取数据
+### 数据存储与读取
+### 分析
+
+Numpy数组
+
+Pandas 数据分析
+
+Scipy 矩阵
+
+Matplotlib 数据可视化
+
+《Python数据分析》（Python Data Analysis）Lvan Idris写的
+
+### 机器学习 建模
+
+### 神经网络
+
+
+
